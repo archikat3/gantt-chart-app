@@ -22,7 +22,7 @@
 -	pandas
 -	numpy
 -	tkcalendar
--	network
+-	networkx
 
 Σημείωση: 
 Οι βιβλιοθήκες tkinter, json, xml και datetime περιλαμβάνονται ήδη εξ αρχής στην τυπική βιβλιοθήκη της Python και δεν χρειάζονται ξεχωριστή εγκατάσταση.
@@ -37,7 +37,7 @@
   
 3.	Εγκαταστήστε όλες τις απαραίτητες βιβλιοθήκες εκτελώντας την παρακάτω εντολή:
  
-    pip install matplotlib pandas numpy tkcalendar network
+    pip install matplotlib pandas numpy tkcalendar networkx
 
 (Σημείωση για χρήστες Linux/Ubuntu: Ενδέχεται να χρειαστείτε επιπλέον το πακέτο γραφικών της Python για το Tkinter εκτελώντας: sudo apt-get install python3-tk).
 
